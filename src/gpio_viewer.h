@@ -21,7 +21,7 @@
 #endif
 #endif
 
-const String baseURL = "https://pibsas.github.io/GPView/gpio_viewer/assets";
+const String baseURL = "https://pibsas.github.io/GPView/gpio_viewer/assets/";
 
 #define maxGPIOPins 49
 
