@@ -21,7 +21,7 @@
 #endif
 #endif
 
-const String baseURL = "https://thelastoutpostworkshop.github.io/microcontroller_devkit/gpio_viewer/assets/";
+const String baseURL = "https://github.com/PIBSAS/GPView/tree/e12353aa0b972a358ecf7f5bed78f6d4de7be820/gpio_viewer/assets";
 
 #define maxGPIOPins 49
 
